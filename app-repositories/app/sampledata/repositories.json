@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": 516835552,
+      "name": "app-repositories",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/app-repositories",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 373590919,
+      "name": "appSorteio",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/appSorteio",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 350473202,
+      "name": "bank",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/bank",
+      "description": "balance: deposit and withdraw",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 385637256,
+      "name": "Businesscard-app",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/Businesscard-app",
+      "description": "Projeto do curso da DIO",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 490900193,
+      "name": "GastoViagem",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/GastoViagem",
+      "description": "null",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 384582195,
+      "name": "imc-app",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "Projeto inspirado nas sugestões do repositório do App Ideias",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 491212935,
+      "name": "jeduardosa",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/jeduardosa",
+      "description": "Custom BIO",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+      "id": 372796708,
+      "name": "minhasAnotacoes",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/Jeduardosa/minhasAnotacoes",
+      "description": "App para anotações no cotidiáno",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 357980565,
+      "name": "Monetizze",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/jeduardosa/Monetizze",
+      "description": "Projeto de um gerenciador financeiro em Java (Em Desenvolvimento)",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 492579869,
+      "name": "Motivation",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/Jeduardosa/Motivation",
+      "description": "null",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 513631113,
+      "name": "rickandmorty",
+      "owner": {
+        "login": "jeduardosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38480875?v=4"
+      },
+      "html_url": "https://github.com/Jeduardosa/rickandmorty",
+      "description": "Fui desafiado por um amigo a fazer o app dessa API em Kotiln",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    }
+  ]
+}
